@@ -1,8 +1,8 @@
 ### Hi there 👋
-#### My name is Ariel
+### My name is Ariel
 
 <p>
-  I am a 3rd year software engineer student at : Sami Shamoon(SCE). <br>
+  I am a 3rd year software engineer student at : Sami Shamoon(SCE). <br> <br>
   <ul> <strong>I am intresting in: </strong>
   <li> FullStack Web & App Development. </li>
   <li> Data Science & Machine Learning. </li>
