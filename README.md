@@ -3,7 +3,7 @@
 
 <p>
   I am a 3rd year software engineer student at : Sami Shamoon(SCE). <br>
-  <ul>I am intresting in: 
+  <ul> <strong>I am intresting in: </strong>
   <li> FullStack Web & App Development. </li>
   <li> Data Science & Machine Learning. </li>
   </ul>
