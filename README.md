@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name is Ariel
+### My name is Ariel <hr>
 
 <p>
   I am a 3rd year software engineer student at : Sami Shamoon(SCE). <br> <br>
@@ -23,4 +23,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArielEps&show_icons=true&theme=dracula) <br> <br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArielEps&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <br> <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ArielEps)](https://github.com/anuraghazra/github-readme-stats)
