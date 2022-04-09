@@ -1,16 +1,21 @@
 ### Hi there 👋
+#### My name is Ariel
 
-<!--
-**ArielEps/ArielEps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  I am a 3rd year software engineer student at : Sami Shamoon(SCE). <br>
+  <ul>I am intresting in: 
+  <li> FullStack Web & App Development. </li>
+  <li> Data Science & Machine Learning. </li>
+  </ul>
+</p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Building a Forum web for Collage and Universities Students.
+- 🌱 I’m currently learning JavaScript & Deep Learning (ANN)
+- 👯 I’m looking to collaborate on Web Development
+- 🤔 I’m looking for help with Finding my first job in the industry
+- 💬 Ask me about Anything
+- 📫 How to reach me: www.linkedin.com/in/ariel-epshtein-237789229
+- 😄 Pronouns: Ariel
+- ⚡ Fun fact: I love going to the gym in my free time .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
