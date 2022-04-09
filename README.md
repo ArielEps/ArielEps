@@ -18,6 +18,11 @@
 - 😄 Pronouns: Ariel
 - ⚡ Fun fact: I love going to the gym in my free time .
 
+## Skills:
+HTML | CSS | Django | Python
+
+
+
 ## Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArielEps&show_icons=true&theme=dracula) <br> <br>
