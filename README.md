@@ -2,7 +2,7 @@
 ### My name is Ariel <hr>
 
 <p>
-  I am a 4rt year software engineer student at : Sami Shamoon(SCE). <br> <br>
+  I am a graduated software engineer from Sami Shamoon(SCE). <br> <br>
   <ul> <strong>I am intresting in: </strong>
   <li> FullStack Web & App Development. </li>
   <li> Data Science & Machine Learning. </li>
